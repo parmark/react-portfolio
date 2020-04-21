@@ -1,0 +1,35 @@
+
+/* Full site changes */
+p {
+    font-family: 'Abel', sans-serif;
+    color: rgb(230, 230, 230);
+}
+
+body {
+    background-color: rgb(36, 36, 36);
+}
+
+.navigation {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    text-align: center;
+    border-bottom: 1px solid white;
+    grid-gap: 5em;
+}
+
+.link {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: larger;
+    color: white;
+}
+
+/* Alignment helpers */
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
