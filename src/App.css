@@ -11,7 +11,7 @@ span {
 }
 
 body {
-    height: 1350px;
+    height: minmax(1350px, 100%);
     background: linear-gradient(to bottom right, #2f3441 50%, #212531 50%);
   
 }
