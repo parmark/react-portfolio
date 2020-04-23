@@ -1,7 +1,6 @@
 import React from 'react';
 import portfolio from '../../portfolio.json';
 import Project from '../../components/Project'
-import './style.css'
 
 function Portfolio() {
     return (
