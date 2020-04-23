@@ -10,12 +10,6 @@ span {
     ;
 }
 
-body {
-    height: minmax(1350px, 100%);
-    background: linear-gradient(to bottom right, #2f3441 50%, #212531 50%);
-  
-}
-
 .navigation {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
