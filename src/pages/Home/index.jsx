@@ -8,7 +8,7 @@ function Home() {
             <p></p>
             <p>
                 <a className='link' href="https://github.com/parmark">Github</a>
-                <a className='link' href="#">LinkedIn</a>
+                <a className='link' href="https://www.linkedin.com/in/kevin-parmar-9bbb5919b">LinkedIn</a>
             </p>
         </div>
     )
