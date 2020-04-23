@@ -13,8 +13,8 @@ function App() {
         <BrowserRouter>
           <Navigation />
           <Switch>
-            <Route exact path='/' component={Home} />
-            <Route path='/portfolio' component={Portfolio} />
+            <Route exact path='/react-portfolio' component={Home} />
+            <Route path='/react-portfolio/portfolio' component={Portfolio} />
             <Switch>
               {portfolio.map(project => 
                 <Route 
