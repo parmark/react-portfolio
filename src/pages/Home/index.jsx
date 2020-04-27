@@ -7,7 +7,7 @@ function Home() {
             <div className='home'>
             <p className='bold'>Hello, my name is Kevin Parmar.</p>
             <p>I am a recent graduate of the UNCC Coding Boot Camp and am pursuring a career in Web Development.</p>
-            <p></p>
+            <p>You can contact me at <a href="mailto:parmarkevinb@gmail.com">parmarkevinb@gmail.com.</a></p>
             <p>
                 <a className='link' href="https://github.com/parmark">Github</a>
                 <a className='link' href="https://www.linkedin.com/in/kevin-parmar-9bbb5919b">LinkedIn</a>
